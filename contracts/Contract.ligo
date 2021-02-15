@@ -1,3 +1,4 @@
+// KT1LRC4YcvgTtUiQgbTnQp84f3yEj9FxC3LK
 type storage is record[
   functionCalled: bool;
   admin: address;
